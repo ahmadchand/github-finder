@@ -22,7 +22,6 @@ const Users = () => {
 
 }
 
-
 const userStyle = {
     display: 'grid',
     gridTemplateColumns: 'repeat(3, 1fr)',
